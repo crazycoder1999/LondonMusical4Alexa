@@ -1,0 +1,38 @@
+{
+  "name": "node-js-getting-started",
+  "version": "0.2.5",
+  "description": "Alexa Skills on Heroku",
+  "engines": {
+    "node": "5.9.1"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha"
+  },
+  "dependencies": {
+    "JSONStream": "^1.2.1",
+    "body-parser": "^1.15.2",
+    "chai": "^3.5.0",
+    "chai-as-promised": "^6.0.0",
+    "cheerio": "^0.22.0",
+    "ejs": "2.4.1",
+    "event-stream": "^3.3.4",
+    "express": "4.13.3",
+    "fs": "0.0.1-security",
+    "lodash": "^4.17.2",
+    "mocha": "^3.2.0",
+    "request": "^2.79.0",
+    "request-promise": "^4.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heroku/node-js-getting-started"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}
