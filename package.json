@@ -16,7 +16,7 @@
     "chai": "^3.5.0",
     "chai-as-promised": "^6.0.0",
     "cheerio": "^0.22.0",
-    "ejs": "2.4.1",
+    "ejs": "2.5.5",
     "event-stream": "^3.3.4",
     "express": "4.13.3",
     "fs": "0.0.1-security",
